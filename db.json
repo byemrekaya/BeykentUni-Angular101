@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Basic Tee",
+      "descr": "White",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "productName": "Basic Tee Pre",
+      "descr": "White",
+      "price": 40
+    }
+  ],
+  "product-detail": [
+    {
+      "id": 1,
+      "productName": "Basic Tee 6-Pack",
+      "descr": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous?Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "price": 20,
+      "brand": "X-marka",
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "productName": "Basic Tee 6-Pack Pre",
+      "descr": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous?Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "price": 40,
+      "brand": "Y-marka",
+      "color": "yellow"
+    }
+  ],
+  "basket": [
+    {
+      "id": "0jYrLhgP6irnELx2rGhUC",
+      "productId": 2,
+      "price": 40,
+      "productName": "Basic Tee 6-Pack Pre",
+      "color": "white",
+      "size": "xxs"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 2,
+      "productName": "json-server-2",
+      "descr": "typicode-2",
+      "price": 40,
+      "brand": "X-marka",
+      "color": "yellow"
+    }
+  ]
+}
